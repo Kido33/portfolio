@@ -1,2 +1,1 @@
-# novice-town
-I have arrived in novice-town
+# Kaggle_test_dataset
